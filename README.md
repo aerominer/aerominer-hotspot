@@ -11,12 +11,16 @@ Ecas Electro SRL is a Romanian based company with over 31 years of experience in
 For rapid development of products, to be launched on the market, is offered to our clients a wide range of development tools and software hardware structures for applications that include real-time operating systems, testing environments, debugging and compiling programs, libraries application programs, programmers, modules for test and development boards, technical assistance, information about products offered, seminars and symposium for the promotion of new products. 
 	Also, since 2012, our company has started putting effort in the development and manufacture of hardware products.
 	At the same time, to assist manufacturers of electronic equipment, Ecas Electro have a partnership with Felix Electronic Services (www.felix-ems.ro) an inhouse company of ECAS, owned by the same shareholders.  We are able to execute prototypes and series of electronic modules using modern technologies. Customers and other electronics designers can check their projects based on a large variety of components provided by our company, and then can order executions of large series.
-# Products Information
+# Product Information
 AERO Miner Hotspot, compatible with Helium network, contains high quality and radio performances, resilient and secure gateway, based on the same hardware and software architecture, with a 8-channels LoRaWAN modem (Semtech Reference design v1 and v2 depending on models), a worldwide bands 4G modem and 10/100 ethernet controller.
 All gateways come in 868MHZ variants, and support EU868, LoRaWAN regional parameters.
 # Customer Support
 AERO Miner has a worldwide 24/7 support teams based in Romania.
 # Hardware Security
+
+![683c36bd-812c-45c6-afdd-e224c5ca29af](https://user-images.githubusercontent.com/100297185/155962555-bdeab259-1d5d-4bfb-a601-769dcd95103e.jpg)
+![86384fc0-7a34-4f02-b0fe-d00e552232ea](https://user-images.githubusercontent.com/100297185/155962564-0029a50b-39ef-4a9b-8415-9dd9af439f93.jpg)
+
 AERO Miner gateways have an embedded hardware security built in the CPU, provided by ProvenCoreTM and based on ARM TrustZone. The behavior is very similar to an ECC chip and is the same for all Kerlink products independently with the full miner or light miner version (iZeptoCell & iBTS products have equivalent security integration as the ones already running with the full miner). This has a dedicated processing and storage unit that can store secrets and process security functions (signature, encryption) using private keys. The key is stored ciphered in a hardware memory that is not reachable from the Linux Kernel or userland. Even if the hardware is physically compromised, the key cannot be recovered. When the hardware performs signatures or encryptions, the key is never loaded into the RAM.
 When the firmware signature verification is enabled, the bootloader will refuse to load the firmware unless the signature matches the key burned in the CPU. The CPU has 4 slots of keys that are fuses, and one slot can be erased in the event of key compromising.
 The bootloader itself cannot be modified (locked).
