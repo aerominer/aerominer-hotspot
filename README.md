@@ -1,4 +1,5 @@
 # AERO MINER Hotspot
+![logo_landingpage n](https://user-images.githubusercontent.com/100297185/155961606-142bf5f9-d957-4e5b-a1e8-1ebb3b2b6c0d.png)
 AERO MINER Hotspot is a product developed by Ecas Electro whose main activity is the distribution of electronic components. Ecas Electro was founded in 1991 having as main activity the sales of electronic components, electro- mechanical devices, modules, subsystems and various materials used in production, maintenance and service. 
 # Company Information
 Ecas Electro SRL is a Romanian based company with over 31 years of experience in this field and a turnover of approximately $ 3 million per year and over 15 million in the last 5 years according to the statistics provided by the 2 profile sites: https://lege5.ro/Firma/ecas-electro-srl-2596172 and https://www.risco.ro/verifica-firma/ecas-electro-cui-2596172 .
@@ -28,10 +29,8 @@ Kerlink SA is a stable public company, listed at Euronext Growth, Paris stock ex
 All financial information are public:
 https://live.euronext.com/en/ipo-showcase/kerlink
 # Other Information
-- Desired Discord support channel name: Kerlink
-- Twitter profile: https://twitter.com/kerlink_news
-- Facebook profile: -
-- Other social profiles: https://www.linkedin.com/company/kerlink/ — https://www.instagram.com/kerlink_news/ — https://www.youtube.com/channel/UCXR60-5v1ksOD3r4NW-lLyw
-- Website: https://kerlink.com
-- Payment methods available: -
-- Regions covered / shipped to: worldwide
+- Desired Discord support channel name: aerominer#4079
+- Twitter profile: https://twitter.com/aero_miner
+- Website: https://aero-miner.com
+- Payment methods available: - 
+- Regions covered / shipped to: Europe
