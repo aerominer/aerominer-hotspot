@@ -35,7 +35,8 @@ Kerlink is using this security to store the swarm_key, generated in production. 
 
 Kerlink Group is a leading global provider of connectivity solutions for designing, launching, and operating public & private Internet of Things networks. Its comprehensive product portfolio includes industrial-grade network equipment, best-of-breed network core, operations and management software, value-added applications and expert professional services, backed by strong R&D capabilities. Kerlink specializes in enabling future-proof intelligent IoT connectivity for three major domains: Smart Cities – metering, parking, street lighting, waste management, air quality & pollution, building & facilities, assets monitoring… Smart Industries – fleet & asset tracking, energy & utilities, oil, gas & mining, airports, harbors, infrastructure, manufacturing, retail… and Smart Territories – precision agriculture, environment protection and rural towns & areas. More than 120,000 Kerlink installations have been rolled out with more than 330 clients in 69 countries. Based in France, with subsidiaries in the US, Singapore, India, and Japan, Kerlink is a co-founder and board member of the LoRa Alliance® and the uCIFI Alliance™. It is listed on Euronext Growth Paris under the symbol ALKLK.
 # Budget & Capital
-Kerlink SA is a stable public company, listed at Euronext Growth, Paris stock exchange.
+Ecas Electro SRL can manufacture 10K hotspots per month.
+We have secured a budget for 2K hotspots.
 All financial information are public:
 https://live.euronext.com/en/ipo-showcase/kerlink
 # Other Information
