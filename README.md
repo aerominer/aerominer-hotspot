@@ -26,11 +26,17 @@ Aici raspunzi la intrebarile lor din model.
  LoRa Concentrator (SX1303)
 
  Broadcom BCM2711 quad-core Cortex-A72 (ARM v8) 64-bit SoC @ 1.5GHz
+
  4GB Ram /32GB eMMC
+
  Ethernet and 4G Backhaul
+
  4G Backhaul (Optional)
+
  Lightning surge protection
+
  Fiberglass LoRa Antenna
+
 # Customer Support
 AERO Miner has a worldwide 24/7 support teams based in Romania.
 # Hardware Security
