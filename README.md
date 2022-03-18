@@ -15,7 +15,9 @@ For rapid development of products, to be launched on the market, is offered to o
 AERO Miner Hotspot, compatible with Helium network, contains high quality and radio performances, resilient and secure gateway, based on the same hardware and software architecture, with LoRaWAN modem (Semtech Reference design v1 and v2 depending on models), a worldwide bands 4G modem and gigabit ethernet.
 All gateways come in 868MHZ variants, and support EU868, LoRaWAN regional parameters.
 # Previous shipments
-Aici scrii previous shipments.
+Have you shipped anything in the past? What types of products have you shipped? Yes. All kind of devices and IoT products.
+
+Which countries have you previously shipped regulatory FCC or CE approved products? To Europe and USA.
 # Scheduled shipments
 EU & USA 
 # Hardware Security Element
