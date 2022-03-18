@@ -12,7 +12,7 @@ For rapid development of products, to be launched on the market, is offered to o
 	Also, since 2012, our company has started putting effort in the development and manufacture of hardware products.
 	At the same time, to assist manufacturers of electronic equipment, Ecas Electro have a partnership with Felix Electronic Services (www.felix-ems.ro) an inhouse company of ECAS, owned by the same shareholders.  We are able to execute prototypes and series of electronic modules using modern technologies. Customers and other electronics designers can check their projects based on a large variety of components provided by our company, and then can order executions of large series.
 # Product Information
-AERO Miner Hotspot, compatible with Helium network, contains high quality and radio performances, resilient and secure gateway, based on the same hardware and software architecture, with a 8-channels LoRaWAN modem (Semtech Reference design v1 and v2 depending on models), a worldwide bands 4G modem and 10/100 ethernet controller.
+AERO Miner Hotspot, compatible with Helium network, contains high quality and radio performances, resilient and secure gateway, based on the same hardware and software architecture, with LoRaWAN modem (Semtech Reference design v1 and v2 depending on models), a worldwide bands 4G modem and gigabit ethernet.
 All gateways come in 868MHZ variants, and support EU868, LoRaWAN regional parameters.
 # Previous shipments
 Aici scrii previous shipments.
