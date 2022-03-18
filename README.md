@@ -24,6 +24,7 @@ Aici raspunzi la intrebarile lor din model.
  Full Hotspots
 
  LoRa Concentrator (SX1303)
+
  Broadcom BCM2711 quad-core Cortex-A72 (ARM v8) 64-bit SoC @ 1.5GHz
  4GB Ram /32GB eMMC
  Ethernet and 4G Backhaul
