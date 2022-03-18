@@ -61,7 +61,17 @@ Willingness to submit a prototype for audit, and sharing those audit results pub
 
 ![manufacture](https://user-images.githubusercontent.com/100297185/155963874-aa88f256-99d4-409d-b9f7-c5560fc43885.png)
 
-Kerlink Group is a leading global provider of connectivity solutions for designing, launching, and operating public & private Internet of Things networks. Its comprehensive product portfolio includes industrial-grade network equipment, best-of-breed network core, operations and management software, value-added applications and expert professional services, backed by strong R&D capabilities. Kerlink specializes in enabling future-proof intelligent IoT connectivity for three major domains: Smart Cities – metering, parking, street lighting, waste management, air quality & pollution, building & facilities, assets monitoring… Smart Industries – fleet & asset tracking, energy & utilities, oil, gas & mining, airports, harbors, infrastructure, manufacturing, retail… and Smart Territories – precision agriculture, environment protection and rural towns & areas. More than 120,000 Kerlink installations have been rolled out with more than 330 clients in 69 countries. Based in France, with subsidiaries in the US, Singapore, India, and Japan, Kerlink is a co-founder and board member of the LoRa Alliance® and the uCIFI Alliance™. It is listed on Euronext Growth Paris under the symbol ALKLK.
+Have you built and delivered radio hardware products before? Yes
+
+Have you built gateways before? Yes
+
+How many gateways did you make? Over 100,000
+
+If you have not built gateways before, are you using a third party manufacturer? This is the single largest risk with most hardware ventures. If possible please provide information about your manufacturing partners and supply chain.
+
+Where are you sourcing your components from? From Module manufacturers
+
+How many radio modules/ concentrators can you procure? 5000 pieces at a time
 # Budget & Capital
 Ecas Electro SRL can manufacture 10K hotspots per month.
 We have secured a budget for 2K hotspots.
