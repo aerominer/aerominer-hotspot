@@ -14,6 +14,14 @@ For rapid development of products, to be launched on the market, is offered to o
 # Product Information
 AERO Miner Hotspot, compatible with Helium network, contains high quality and radio performances, resilient and secure gateway, based on the same hardware and software architecture, with a 8-channels LoRaWAN modem (Semtech Reference design v1 and v2 depending on models), a worldwide bands 4G modem and 10/100 ethernet controller.
 All gateways come in 868MHZ variants, and support EU868, LoRaWAN regional parameters.
+# Previous shipments
+Aici scrii previous shipments.
+# Scheduled shipments
+Aici scrii unde planuim sa shipuim.
+# Hardware Security Element
+Aici raspunzi la intrebarile lor din model.
+# Hardware Information
+Aici scrii info strict legate de hardware, mai sus ai rubrica specifica despre produsul in intregime unde faci descriere.
 # Customer Support
 AERO Miner has a worldwide 24/7 support teams based in Romania.
 # Hardware Security
@@ -39,6 +47,8 @@ Ecas Electro SRL can manufacture 10K hotspots per month.
 We have secured a budget for 2K hotspots.
 All financial information are public:
 https://live.euronext.com/en/ipo-showcase/kerlink
+# Risk & Challenges
+Care sunt riscurile care pot impiedica compania sa nu produca & furnizeze produsul ( aici e bine sa ne legam si de situatia actuala cu covidul + razboiul, adica intarzieri de livrari + productii externe ).
 # Other Information
 - Desired Discord support channel name: aerominer#4079
 - Twitter profile: https://twitter.com/aero_miner
