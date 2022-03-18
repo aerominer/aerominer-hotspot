@@ -44,13 +44,16 @@ AERO Miner has a worldwide 24/7 support teams based in Romania.
 ![683c36bd-812c-45c6-afdd-e224c5ca29af](https://user-images.githubusercontent.com/100297185/155962555-bdeab259-1d5d-4bfb-a601-769dcd95103e.jpg)
 ![86384fc0-7a34-4f02-b0fe-d00e552232ea](https://user-images.githubusercontent.com/100297185/155962564-0029a50b-39ef-4a9b-8415-9dd9af439f93.jpg)
 
-AERO Miner gateways have an embedded hardware security built in the CPU, provided by ProvenCoreTM and based on ARM TrustZone. The behavior is very similar to an ECC chip and is the same for all Kerlink products independently with the full miner or light miner version (iZeptoCell & iBTS products have equivalent security integration as the ones already running with the full miner). This has a dedicated processing and storage unit that can store secrets and process security functions (signature, encryption) using private keys. The key is stored ciphered in a hardware memory that is not reachable from the Linux Kernel or userland. Even if the hardware is physically compromised, the key cannot be recovered. When the hardware performs signatures or encryptions, the key is never loaded into the RAM.
-When the firmware signature verification is enabled, the bootloader will refuse to load the firmware unless the signature matches the key burned in the CPU. The CPU has 4 slots of keys that are fuses, and one slot can be erased in the event of key compromising.
-The bootloader itself cannot be modified (locked).
-Kerlink can provide more information upon demand and is willing to comply to any third-party audit.
-Kerlink gateways can be configured to be monitored by the WanesyTM Management Center (WMC) software. This is a cloud-based SaaS that enables remote gateway management (OTA firmware upgrade, configuration change, monitoring, KPIs, supervision, alarms, etc.). The connection between the gateways and the WMC is secured by an OpenVPN connection. The OpenVPN certificate and private key are stored in the ProvenCoreTM hardware security module. The key is never reachable from the Kernel or userland and cannot be compromised. TLS and security negotiation for the VPN are handled by ProvenCoreTM so that the key is never loaded into the RAM.
-Kerlink gateways can remotely self-configure using a provisioning server called WanesyTM Operational Assistant (WOA). The gateways have a private key generated in production and download a certificate (PKCS10) from WOA to authenticate themselves. This provides TLS client-based and server-based mutual authentication. Provisioning information that WOA may send (OTA, configuration, etc) are securely transmitted only to the gateway authorized and authenticated for it.
-Kerlink is using this security to store the swarm_key, generated in production. WOA save the public key part of the swarm key and never store the private key. The gateway can authenticate on WOA during the onboarding procedure, to generate the add_gateway transaction and provide it to WOA. WOA then provide it to the phone wallet app once ownership of the gateway by the phone wallet app has been identified (like a QR code on the gateway). The wallet app signs the transaction. The onboarding procedure for light miner is the same as the full miner procedure. The onboarding server retrieve the swarm public key from WOA, the transaction from the blockchain and can sign the add_gateway transaction. The private swarm key never leaves the gateway, is never stored by Kerlink, and it cannot be recovered since it is stored ciphered in the hardware security memory.
+Are you using an ECC608. Yes or No?
+
+Encrypted/locked-down firmware. Yes or No?
+
+Encrypted storage of the miner swarm_key, either via disk encryption or hardware measures. Yes or No?
+
+Encrypted buses, potting and other anti-tampering measures. Yes or No?
+
+Willingness to submit a prototype for audit, and sharing those audit results publicly (pass or fail) Yes or No?
+
 # Manufacturing Information
 3D Manufacture Tour : https://my.matterport.com/show/?m=rYswteYLJDP
 
