@@ -17,7 +17,7 @@ All gateways come in 868MHZ variants, and support EU868, LoRaWAN regional parame
 # Previous shipments
 Aici scrii previous shipments.
 # Scheduled shipments
-Aici scrii unde planuim sa shipuim.
+EU & USA 
 # Hardware Security Element
 Aici raspunzi la intrebarile lor din model.
 # Hardware Information
