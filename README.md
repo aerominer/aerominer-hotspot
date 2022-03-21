@@ -46,15 +46,15 @@ AERO Miner has a worldwide 24/7 support teams based in Romania.
 ![683c36bd-812c-45c6-afdd-e224c5ca29af](https://user-images.githubusercontent.com/100297185/155962555-bdeab259-1d5d-4bfb-a601-769dcd95103e.jpg)
 ![86384fc0-7a34-4f02-b0fe-d00e552232ea](https://user-images.githubusercontent.com/100297185/155962564-0029a50b-39ef-4a9b-8415-9dd9af439f93.jpg)
 
-Are you using an ECC608. Yes or No?
+Are you using an ECC608. Yes or No? YES
 
-Encrypted/locked-down firmware. Yes or No?
+Encrypted/locked-down firmware. Yes or No? YES
 
-Encrypted storage of the miner swarm_key, either via disk encryption or hardware measures. Yes or No?
+Encrypted storage of the miner swarm_key, either via disk encryption or hardware measures. Yes or No? YES
 
-Encrypted buses, potting and other anti-tampering measures. Yes or No?
+Encrypted buses, potting and other anti-tampering measures. Yes or No? YES
 
-Willingness to submit a prototype for audit, and sharing those audit results publicly (pass or fail) Yes or No?
+Willingness to submit a prototype for audit, and sharing those audit results publicly (pass or fail) Yes or No? YES
 
 # Manufacturing Information
 3D Manufacture Tour : https://my.matterport.com/show/?m=rYswteYLJDP
