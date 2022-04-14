@@ -74,7 +74,7 @@ Where are you sourcing your components from? From Module manufacturers
 How many radio modules/ concentrators can you procure? 5000 pieces at a time
 # Budget & Capital
 Ecas Electro SRL can manufacture 10K hotspots per month.
-We have secured a budget for 2K hotspots.
+We have secured a budget for 2k hotspots.
 All financial information are public:
 https://live.euronext.com/en/ipo-showcase/kerlink
 # Risk & Challenges
