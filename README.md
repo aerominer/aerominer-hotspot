@@ -69,16 +69,16 @@ How many gateways did you make? Over 100,000
 
 If you have not built gateways before, are you using a third party manufacturer? This is the single largest risk with most hardware ventures. If possible please provide information about your manufacturing partners and supply chain.
 
-Where are you sourcing your components from? From Module manufacturers
+Where are you sourcing your components from? From Module manufacturers.
 
 How many radio modules/ concentrators can you procure? 5000 pieces at a time
 # Budget & Capital
 Ecas Electro SRL can manufacture 10K hotspots per month.
-We have secured a budget for 2k hotspots.
+We have secured a budget for our first batch of  hotspots.
 All financial information are public:
 https://live.euronext.com/en/ipo-showcase/kerlink
 # Risk & Challenges
-Care sunt riscurile care pot impiedica compania sa nu produca & furnizeze produsul ( aici e bine sa ne legam si de situatia actuala cu covidul + razboiul, adica intarzieri de livrari + productii externe ).
+Supply chain problems due to the cheap shortage. However over the years we have build up our network of trusted parteners and toghether we can overcome thoose chalanges. 
 # Other Information
 - Desired Discord support channel name: aerominer#4079
 - Twitter profile: https://twitter.com/aero_miner
