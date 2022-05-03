@@ -20,8 +20,6 @@ Have you shipped anything in the past? What types of products have you shipped? 
 Which countries have you previously shipped regulatory FCC or CE approved products? To Europe and USA.
 # Scheduled shipments
 EU & USA 
-# Hardware Security Element
-Aici raspunzi la intrebarile lor din model.
 # Hardware Information
  Full Hotspots
 
